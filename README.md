@@ -9,10 +9,8 @@ Entusiasta de la tecnología y recién llegada al mundo de la programación, com
 ## 📫 Contacto
 
 - Puedes contactarme a través de mi correo electrónico: **<bcontreras1810@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](www.linkedin.com/in/
-barbara-contreras-patiño-84830a2b0
-)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+- Puedes contactarme a través de: **https://www.linkedin.com/in/barbara-contreras-pati%C3%B1o-84830a2b0/**
+
 
 ### 🎨 Frontend
 
